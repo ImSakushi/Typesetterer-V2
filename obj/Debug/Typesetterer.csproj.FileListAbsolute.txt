@@ -1,0 +1,4 @@
+C:\Users\Pablo\Desktop\ts 4.6.1\obj\Debug\Typesetterer.csproj.AssemblyReference.cache
+C:\Users\Pablo\Desktop\ts 4.6.1\obj\Debug\Typesetterer.Properties.Resources.resources
+C:\Users\Pablo\Desktop\ts 4.6.1\obj\Debug\Typesetterer.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\ts 4.6.1\obj\Debug\Typesetterer.csproj.CoreCompileInputs.cache
